@@ -75,3 +75,143 @@ Adhaar-Management/
  └── README.md
 </code>
 </pre>
+
+⚙️ Setup & Installation
+-----------------------------
+1. Clone Repository
+   ---------------------------------
+
+<pre>
+<code>
+git clone https://github.com/<your-username>/adhaar-management.git
+cd adhaar-management
+</code>
+</pre>
+
+
+2. Backend Setup (Spring Boot)
+   --------------------------------------
+
+   
+<pre>
+<code>
+cd backend
+mvn clean install
+mvn spring-boot:run
+</code>
+</pre>
+
+
+Runs on:
+👉 http://localhost:8888
+
+Database Config (backend/src/main/resources/application.properties)
+----------------------------------------------------------------------------
+
+
+<pre>
+<code>
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
+spring.datasource.username=your_db_user
+spring.datasource.password=your_db_password
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.database-platform=org.hibernate.dialect.OracleDialect
+</code>
+</pre>
+
+
+3. Frontend Setup (React)
+   ------------------------------------------------------------------
+
+
+<pre>
+<code>
+cd frontend
+npm install
+npm start
+</code>
+</pre>
+
+
+
+📌 API Endpoints
+----------------------------------------------------------
+Create Person with Aadhaar
+
+POST ```http://localhost:8888/api/person```
+
+Request:
+<pre>
+<code>
+{
+  "name": "John",
+  "age": 30,
+  "aadhar": {
+    "aadharNumber": "123456789012",
+    "address": "Delhi"
+  }
+}
+</code>
+</pre>
+
+
+Response:
+<pre>
+<code>
+{
+  "id": 1,
+  "name": "John",
+  "age": 30,
+  "aadhar": {
+    "id": 1,
+    "aadharNumber": "123456789012",
+    "address": "Delhi"
+  }
+}
+
+</code>
+</pre>
+
+
+
+Get All Persons
+------------------------------
+
+GET ```http://localhost:8888/api/person```
+
+
+
+🖥️ Frontend Features
+--------------------------------------------
+Add Person
+
+Fill form with Name, Age, Aadhaar Number, Address
+
+Submits via POST → stored in DB
+
+View Records
+
+Auto-refreshes table after adding person
+
+Displays all persons with linked Aadhaar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
