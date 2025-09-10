@@ -1,14 +1,14 @@
 Aadhaar Management System
+--------------------------------------------
 
 
 
-
-
-An industrial-grade Aadhaar Management System built with Spring Boot (Backend) and React (Frontend).
+strial-grade Aadhaar Management System built with Spring Boot (Backend) and React (Frontend).
 It supports CRUD operations for managing people and their Aadhaar details, with a professional web interface.
 
 
 🚀 Features
+-------------------------------------------
 
 Backend (Spring Boot)
 
@@ -33,6 +33,7 @@ Runs independently on http://localhost:3000
 
 
 🛠️ Tech Stack
+--------------------------------------------
 Backend
 
 Java 21
@@ -59,10 +60,11 @@ Runs on Create React App
 
 
 📂 Project Structure
+-----------------------------------------
 
 <pre>
 <code>
-```Adhaar-Management/
+Adhaar-Management/
  ├── backend/ (Spring Boot project)
  │    ├── src/main/java/com/example/adhaar
  │    └── ...
@@ -71,6 +73,5 @@ Runs on Create React App
  │    ├── public/
  │    └── package.json
  └── README.md
-```
 </code>
 </pre>
