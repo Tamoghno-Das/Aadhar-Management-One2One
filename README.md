@@ -197,6 +197,20 @@ Auto-refreshes table after adding person
 Displays all persons with linked Aadhaar
 
 
+📸 Screenshots
+-------------------------------------------------------
+✅ JUnit Test Execution
+
+<img 
+    alt="Screenshot 2025-09-11 002207" 
+    src="https://github.com/user-attachments/assets/03320f71-0a18-4ae0-a026-cbc1081083b7" 
+    width="600" 
+    style="border-radius:10px;">
+
+    
+
+
+
 
 
 
