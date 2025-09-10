@@ -199,13 +199,110 @@ Displays all persons with linked Aadhaar
 
 📸 Screenshots
 -------------------------------------------------------
-✅ JUnit Test Execution
 
-<img 
-    alt="Screenshot 2025-09-11 002207" 
-    src="https://github.com/user-attachments/assets/03320f71-0a18-4ae0-a026-cbc1081083b7" 
-    width="600" 
-    style="border-radius:10px;">
+
+✅ JUnit Test Execution
+------------------------------------------------
+
+
+<p align="center">
+  <img 
+      alt="Screenshot 2025-09-11 002207" 
+      src="https://github.com/user-attachments/assets/03320f71-0a18-4ae0-a026-cbc1081083b7" 
+      width="800"
+      >
+</p>
+
+
+
+✅ API Request via Postman
+-------------------------------------------------------------
+
+
+<p align="center">
+  <img 
+      alt="Screenshot 2025-09-11 002739" 
+      src="https://github.com/user-attachments/assets/bffec0dc-8c2c-4e89-a2d8-806ae1250599" 
+      width="800" 
+      >
+</p>
+
+
+
+✅ Person Table (Database)
+-----------------------------------------------------------------------
+
+
+<p align="center">
+  <img 
+      src="https://github.com/user-attachments/assets/77992520-f173-40f9-9237-2fd027751877" 
+      alt="Screenshot 2025-09-11 003107" 
+      width="800">
+</p>
+
+
+
+✅ Aadhaar Table Data
+---------------------------------------------------------------
+
+
+<p align="center">
+  <img 
+      src="https://github.com/user-attachments/assets/42202e13-4d76-46ea-b794-5cd02000d7e9" 
+      alt="Screenshot 2025-09-11 003132" 
+      width="800">
+</p>
+
+
+
+🧪 Testing
+---------------------------------
+
+Run tests with:
+------------------------
+
+```mvn test```
+
+
+Sample JUnit Test:
+----------------------------
+
+<pre>
+<code>
+assertNotNull(saved.getAadhar());
+assertEquals("123456789012", saved.getAadhar().getAadharNumber());
+</code>
+</pre>
+
+
+
+🗄️ Database Schema
+------------------------------------------------
+
+Person Table
+
+| ID  |  NAME | AGE | AADHAR\_ID |
+|:---:|:----: |:--: |:----------: |
+| 30 | John   | 30  | 30         |
+| 31 | Rahul  | 40  | 31         |
+| 32 | Meena  | 19  | 32         |
+| 33 | Sophia | 28  | 33         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
 
