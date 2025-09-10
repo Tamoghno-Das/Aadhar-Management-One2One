@@ -319,24 +319,49 @@ assertEquals("123456789012", saved.getAadhar().getAadharNumber());
 ***FrontEnd Running***
 -----------------------------------
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a4fefcb1-add7-4396-a95b-08d6c59c0b06" width="600" alt="Frontend Screenshot">
+  <img src="https://github.com/user-attachments/assets/834b2a44-4ab1-4889-a543-66b572bec139" width="600" alt="Frontend Screenshot">
 </p>
 
 <p align="center">
-  <strong>Frontend Home Page:</strong> This screenshot shows the main landing page of the application, including navigation, dashboard overview, and key UI elements.
+  🖼️ <strong>Frontend View:</strong> Screenshot showing the main interface of the application
 </p>
+
 
 
 🎬 Here is a video demo of it
 ----------------------------------------------
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0a28704e-c839-4f89-8a39-dd3bfca9e31f" width="1000" alt="Aadhar Demo GIF">
+  <img src="https://github.com/user-attachments/assets/f3cda851-d0b7-4e91-86ed-5da0f5f4ed37" width="800" alt="Additional Demo GIF">
+</p>
+
+
+<p align="center">
+  🎬 <strong>Demo:</strong> Add Feature Aadhar Management System frontend in action 
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1dcf742d-0aa7-41a1-b676-9690446b438a" width="800" alt="Update Feature Demo">
+</p>
+
+
+<p align="center">
+  🎬 <strong>Demo:</strong> Update feature of the Aadhar Management System in action
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac137a51-ad58-4ff1-8ee7-70d2a7c34e20" width="600" alt="Delete Feature Demo">
 </p>
 
 <p align="center">
-  🎬 <strong>Demo:</strong> Aadhar Management System frontend in action
+  🎬 <strong>Demo:</strong> Delete feature of the Aadhar Management System in action
 </p>
 
 
