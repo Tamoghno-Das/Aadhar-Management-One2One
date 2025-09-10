@@ -274,8 +274,7 @@ Displays all persons with linked Aadhaar
 🧪 Testing
 ---------------------------------
 
-Run tests with:
-------------------------
+**Run tests with:**
 
 ```mvn test```
 
