@@ -47,11 +47,11 @@ Here is a quick overview of the software running and screenshots of the project 
 | IntelliJ IDEA   | 2025.2  | IDE used for coding and debugging |
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1" width="200" alt="Java">
-  <img src="https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643" width="200" alt="Spring Boot">
-  <img src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-568d70728108" width="200" alt="H2 Database">
-  <img src="https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e" width="200" alt="Postman">
-  <img src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" width="200" alt="IntelliJ IDEA">
+  <img src="https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1" width="50" alt="Java">
+  <img src="https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643" width="50" alt="Spring Boot">
+  <img src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-568d70728108" width="50" alt="H2 Database">
+  <img src="https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e" width="50" alt="Postman">
+  <img src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" width="50" alt="IntelliJ IDEA">
 </p>
 
 
