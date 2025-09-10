@@ -32,29 +32,19 @@ Runs independently on http://localhost:3000
 
 
 
-🛠️ Tech Stack
---------------------------------------------
-Backend
+🖥 Software & Setup
 
-Java 21
+Here is a quick overview of the software running and screenshots of the project in action.
 
-Spring Boot 3.5.5
+| Software / Tool       | Version      | Description                                   | Screenshot |
+|----------------------|-------------|-----------------------------------------------|------------|
 
-Spring Data JPA
+| Java                 | 21          | Programming language used for backend logic  | ![java](https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1) |
+| Spring Boot          | 3.2         | Framework used to create REST APIs            |![spring](https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643)|
+| H2 Database          | 2.2         | In-memory database used for testing          | <img width="200" height="200" alt="h2 db" src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-  568d70728108" />|
+| Postman              | 10.15       | Used for testing REST APIs                    | ![postman](https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e)
+| IntelliJ IDEA        | 2025.2      | IDE used for coding and debugging             | <img width="256" height="256" alt="intellij" src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" />|
 
-Oracle / PostgreSQL
-
-Maven
-
-Frontend
-
-React 18
-
-Fetch API (no external libraries)
-
-Pure React components for form + table
-
-Runs on Create React App
 
 
 
@@ -279,7 +269,7 @@ assertEquals("123456789012", saved.getAadhar().getAadharNumber());
 🗄️ Database Schema
 ------------------------------------------------
 
-Person Table
+***Person Table***
 
 | ID  |  NAME | AGE | AADHAR\_ID |
 |:---:|:----: |:--: |:----------: |
@@ -290,7 +280,7 @@ Person Table
 
 
 
-Aadhar Table
+***Aadhar Table***
 
 | ID | AADHAR\_NUMBER | ADDRESS   | PERSON\_ID |
 | -- | -------------- | --------- | ---------- |
@@ -298,6 +288,10 @@ Aadhar Table
 | 31 | 555566667777   | Bangalore | 31         |
 | 32 | 111122223333   | Kolkata   | 32         |
 | 33 | 999988887777   | Hyderabad | 33         |
+
+
+
+
 
 
 
