@@ -332,8 +332,14 @@ assertEquals("123456789012", saved.getAadhar().getAadharNumber());
 ----------------------------------------------
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eeff3345-c065-4099-844c-8ad3dc7b4ea6" width="800" alt="Pi7 GIF Demo">
+  <img src="https://github.com/user-attachments/assets/0a28704e-c839-4f89-8a39-dd3bfca9e31f" width="800" alt="Aadhar Demo GIF">
 </p>
+
+<p align="center">
+  🎬 <strong>Demo:</strong> Aadhar Management System frontend in action
+</p>
+
+
 
 
 
