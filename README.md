@@ -290,6 +290,18 @@ Person Table
 
 
 
+Aadhar Table
+
+| ID | AADHAR\_NUMBER | ADDRESS   | PERSON\_ID |
+| -- | -------------- | --------- | ---------- |
+| 30 | 123456789012   | Delhi     | 30         |
+| 31 | 555566667777   | Bangalore | 31         |
+| 32 | 111122223333   | Kolkata   | 32         |
+| 33 | 999988887777   | Hyderabad | 33         |
+
+
+
+
 
 
 
