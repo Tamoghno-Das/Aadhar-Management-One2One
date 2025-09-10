@@ -33,17 +33,26 @@ Runs independently on http://localhost:3000
 
 
 🖥 Software & Setup
+-----------------------------------------------------
 
 Here is a quick overview of the software running and screenshots of the project in action.
 
-| Software / Tool       | Version      | Description                                   | Screenshot |
-|----------------------|-------------|-----------------------------------------------|------------|
 
-| Java                 | 21          | Programming language used for backend logic  | ![java](https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1) |
-| Spring Boot          | 3.2         | Framework used to create REST APIs            |![spring](https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643)|
-| H2 Database          | 2.2         | In-memory database used for testing          | <img width="200" height="200" alt="h2 db" src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-  568d70728108" />|
-| Postman              | 10.15       | Used for testing REST APIs                    | ![postman](https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e)
-| IntelliJ IDEA        | 2025.2      | IDE used for coding and debugging             | <img width="256" height="256" alt="intellij" src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" />|
+| Software / Tool | Version | Description |
+|-----------------|---------|-------------|
+| Java            | 21      | Programming language used for backend logic |
+| Spring Boot     | 3.2     | Framework used to create REST APIs |
+| H2 Database     | 2.2     | In-memory database used for testing |
+| Postman         | 10.15   | Used for testing REST APIs |
+| IntelliJ IDEA   | 2025.2  | IDE used for coding and debugging |
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1" width="200" alt="Java">
+  <img src="https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643" width="200" alt="Spring Boot">
+  <img src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-568d70728108" width="200" alt="H2 Database">
+  <img src="https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e" width="200" alt="Postman">
+  <img src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" width="200" alt="IntelliJ IDEA">
+</p>
 
 
 
