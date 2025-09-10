@@ -46,24 +46,29 @@ Here is a quick overview of the software running and screenshots of the project 
 | Postman         | 10.15   | Used for testing REST APIs |
 | IntelliJ IDEA   | 2025.2  | IDE used for coding and debugging |
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1" width="100" alt="Java">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/1719a2e6-121c-47a5-b1fe-510ad05e1eb1" width="120" alt="Java" style="vertical-align: middle;">
+  <strong>Java 21</strong>: Backend programming language
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643" width="100" alt="Spring Boot">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0eeef4ea-c10c-48d7-9470-6bfc1e219643" width="120" alt="Spring Boot" style="vertical-align: middle;">
+  <strong>Spring Boot 3.2</strong>: Framework used to create REST APIs
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-568d70728108" width="100" alt="H2 Database">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/3d804e37-b449-42ec-a86d-568d70728108" width="120" alt="H2 Database" style="vertical-align: middle;">
+  <strong>H2 Database 2.2</strong>: In-memory database used for testing
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e" width="100" alt="Postman">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/d897ff1f-f2c9-4b57-9b4a-d2800b94c37e" width="120" alt="Postman" style="vertical-align: middle;">
+  <strong>Postman 10.15</strong>: Used for testing REST APIs
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" width="100" alt="IntelliJ IDEA">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/075da697-0f01-4a32-a9ae-f91ecae9a815" width="120" alt="IntelliJ IDEA" style="vertical-align: middle;">
+  <strong>IntelliJ IDEA 2025.2</strong>: IDE used for coding and debugging
 </p>
 
 
@@ -309,6 +314,38 @@ assertEquals("123456789012", saved.getAadhar().getAadharNumber());
 | 31 | 555566667777   | Bangalore | 31         |
 | 32 | 111122223333   | Kolkata   | 32         |
 | 33 | 999988887777   | Hyderabad | 33         |
+
+
+
+***FrontEnd Running***
+-----------------------------------
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a4fefcb1-add7-4396-a95b-08d6c59c0b06" width="600" alt="Frontend Screenshot">
+</p>
+
+<p align="center">
+  <strong>Frontend Home Page:</strong> This screenshot shows the main landing page of the application, including navigation, dashboard overview, and key UI elements.
+</p>
+
+
+🎬 Here is a video demo of it
+----------------------------------------------
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eeff3345-c065-4099-844c-8ad3dc7b4ea6" width="800" alt="Pi7 GIF Demo">
+</p>
+
+
+
+👨‍💻 Author
+-------------------------------------------
+
+Developed by Tamoghno Das
+
+
+
+
 
 
 
